@@ -1,10 +1,16 @@
 # TabbyFlutterSdk
 
 ## Features
-
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+Shop now.
+Pay later.
+Earn cash.
+With tabby, shopping is more rewarding. Split your purchases into 4 interest-free payments or earn cashback at your favourite stores (or both).
+ 
 
 ## Getting started
+
+Get in touch && get your ApiKeys for Tabby [Visit Tabby website](https://tabby.ai/)
+
 
 TODO: List prerequisites and provide or point to information on how to
 start using the package.
