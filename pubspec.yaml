@@ -1,7 +1,7 @@
 name: tabby_flutter_sdk
 description: A new Flutter project.
 version: 0.0.1
-homepage:
+homepage: https://github.com/mtellect/tabby_flutter_sdk
 
 environment:
   sdk: ">=2.16.0 <3.0.0"
