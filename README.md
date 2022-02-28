@@ -5,7 +5,7 @@ Shop now.
 Pay later.
 Earn cash.
 With tabby, shopping is more rewarding. Split your purchases into 4 interest-free payments or earn cashback at your favourite stores (or both).
- 
+
 
 ## Getting started
 
@@ -24,7 +24,7 @@ to `/example` folder.
 
   void testTabby() async {
     final tabbySdk = Tabby.TabbyFlutterSdk();
-    tabbySdk.setApiKey("pk_test_151a3aa8-1675-4441-bfea-b8ba9d880bfe");
+    tabbySdk.setApiKey("Your Public Key");
 
     final payload = Tabby.TabbyCheckoutPayload(
         merchantCode: "eyewa",
